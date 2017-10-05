@@ -1,2 +1,2 @@
 # Blackjack
-Blackjack program written in C++ using Visual Studio Forms Application
+Blackjack program written in Java, implemented using Java swing API
