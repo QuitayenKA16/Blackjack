@@ -1,9 +1,3 @@
-package gui_programs;
-
-//Karamel Quitayen
-//G Period Java
-//Program 27: Blackjack GUI
-//=====================================
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
