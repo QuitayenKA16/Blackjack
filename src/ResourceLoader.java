@@ -1,5 +1,3 @@
-package gui_programs;
-
 import java.io.InputStream;
 
 final public class ResourceLoader 
